@@ -12,3 +12,4 @@
   - [EX02-01 聊天機器人](EX02_01.ipynb)
   - [EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03.ipynb)
   - [EX02-04 Pokemon圖片下載](EX02_04.ipynb)
+  - [EX02-05 PTT Gossiping](EX02_05.ipynb)
