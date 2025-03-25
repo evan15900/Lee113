@@ -13,3 +13,4 @@
   - [EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03.ipynb)
   - [EX02-04 Pokemon圖片下載](EX02_04.ipynb)
   - [EX02-05 PTT Gossiping](EX02_05.ipynb)
+  - [EX02-06 開眼電影](EX02_06.ipynb)
