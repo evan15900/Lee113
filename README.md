@@ -15,3 +15,6 @@
   - [EX02-05 PTT Gossiping](EX02_05.ipynb)
   - [EX02-06 開眼電影](EX02_06.ipynb)
   - [EX02-07 KKDay](EX02_07.ipynb)
+---
+3.**Data Analysis**
+  - [EX03-01 公司薪資概況Ⅰ](EX03_01.ipynb)
