@@ -27,3 +27,4 @@
 ---
 5.**Web API**
   - [EX05-01 Echo Bot](EX05_01.ipynb)
+  - [EX05-02 Ask Gemini](EX05_02.ipynb)
