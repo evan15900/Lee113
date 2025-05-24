@@ -26,6 +26,8 @@
   - [EX03-07 Tips](EX03_07.ipynb)
 ---
 4.**Data Analysis**
+  - [EX04-01 汽車車型數值資料轉換](EX04_01.ipynb)
+
 ---
 5.**Web API**
   - [EX05-01 Echo Bot](EX05_01.ipynb)
