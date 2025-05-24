@@ -11,6 +11,7 @@
 ---
 2.**Web Crawler**
   - [EX02-01 聊天機器人](EX02_01.ipynb)
+  - [EX02-02 高雄紅橘線捷運車站位置查詢](EX02_02.ipynb)
   - [EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03.ipynb)
   - [EX02-04 Pokemon圖片下載](EX02_04.ipynb)
   - [EX02-05 PTT Gossiping](EX02_05.ipynb)
