@@ -7,6 +7,7 @@
   - [EX01-04 終極密碼](EX01_04.ipynb)
   - [EX01-05 凱薩密碼](EX01_05.ipynb)
   - [EX01-06 簡易購物車](EX01_06.ipynb)
+  - [EX01-07 美食資訊查詢](EX01_07.ipynb)
 ---
 2.**Web Crawler**
   - [EX02-01 聊天機器人](EX02_01.ipynb)
