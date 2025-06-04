@@ -27,7 +27,7 @@
   - [EX03-06 出生人口數](EX03_06.ipynb)
   - [EX03-07 Tips](EX03_07.ipynb)
 ---
-4.**Data Analysis**
+4.**Machine Learning**
   - [EX04-01 汽車車型數值資料轉換](EX04_01.ipynb)
   - [EX04-02 客戶基本資料編碼](EX04_02.ipynb)
   - [EX04-03 客戶分群](EX04_03.ipynb)
