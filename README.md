@@ -33,7 +33,7 @@
   - [EX04-03 客戶分群](EX04_03.ipynb)
   - [EX04-04 加州房價](EX04_04.ipynb)
   - [EX04-05 辨識鳶尾花](EX04_05.ipynb)
-  - [EX04-06 ET Today 新聞標題分類](EX04_05.ipynb)
+  - [EX04-06 ET Today 新聞標題分類](EX04_06.ipynb)
 
 ---
 5.**Web API**
