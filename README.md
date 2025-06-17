@@ -41,3 +41,7 @@
   - [EX05-02 Ask Gemini](EX05_02.ipynb)
   - [EX05-03 Reply Multi-type Messages](EX05_03.ipynb)
   - [EX05-04 Reply Template Messages](EX05_04.ipynb)
+
+---
+6.**Homework**
+  - [HW1](HW02.ipynb)
