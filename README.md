@@ -45,7 +45,7 @@
 ---
 6.**Homework**
   - [HW1](HW02.ipynb)
-  - [HW2](HW02.ipynb)
+  - [HW2](HW03.ipynb)
 
 ---
 7.**Report**
